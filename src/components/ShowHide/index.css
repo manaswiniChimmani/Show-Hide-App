@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.h1 {
+  color: #ffffff;
+  font-size: 40px;
+}
+.btn {
+  background-color: #ffffff;
+  color: #dd1264;
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+  margin: 30px;
+  font-weight: bold;
+}
+.n1 {
+  background-color: #fddddb;
+  padding: 30px;
+
+  font-weight: bold;
+  margin: 30px;
+  border-radius: 10px;
+}
+
+.card {
+  display: flex;
+}
